@@ -4,11 +4,9 @@ Unofficial Virtual Reality Mod by [fholger](https://github.com/fholger)
 
 ## About the project
 
-This mod brings the original Alan Wake to life in your VR headset. The mod features
-6dof headset tracking and synced stereo rendering for a smooth and artifact-free VR
-experience. Gameplay remains unchanged in this first release - the game is still a 3rd
-person experience and best experienced seated with a gamepad (or alternatively keyboard
-and mouse). A first person mode with motion controls might come in a later update.
+This mod brings the original Alan Wake to life in your VR headset. It features a fully
+immersive first-person mode with motion controller support; alternatively, you can
+experience the game in its original third-person view with a gamepad.
 
 ## Supported game versions
 
@@ -36,7 +34,7 @@ what you will.
 
 If you enjoyed this mod, or any of my other creations (Half-Life 2 VR, Crysis VR,
 Far Cry VR), and want to say thank you, I accept donations through Patreon or Ko-Fi.
-Purely optional, and doing so will not get you any benefits except my gratitude :)
+Purely optional, and doing so will not get you any benefits except my gratitude. :)
 
 [Ko-Fi](https://ko-fi.com/fholger)
 [Patreon](https://patreon.com/fholger)
